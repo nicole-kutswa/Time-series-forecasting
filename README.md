@@ -9,7 +9,7 @@
 </div>
 
 # <div align="center">Time series forecasting using Deep Learning</div>
-<div align="center"><img src="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/overview.gif?raw=true"></div>
+<div align="center"><img src="https://github.com/nicole-kutswa/Time-series-forecasting/blob/main/output/overview.gif?raw=true"></div>
 
 
 
