@@ -1,15 +1,10 @@
 <div align="center">
   
-[1]: https://github.com/Pradnya1208
-[2]: https://www.linkedin.com/in/pradnya-patil-b049161ba/
-[3]: https://public.tableau.com/app/profile/pradnya.patil3254#!/
-[4]: https://twitter.com/Pradnya1208
+[![github](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/git.svg)][1]
+[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
 
-
-[![github](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/9f5c4a255972275ced549ea6e34ef35019166944/icons/iconmonstr-linkedin-5.svg)][2]
-[![tableau](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/e257c5d6cf02f13072429935b0828525c601414f/icons/icons8-tableau-software%20(1).svg)][3]
-[![twitter](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c9f9c5dc4e24eff0143b3056708d24650cbccdde/icons/iconmonstr-twitter-5.svg)][4]
+[1]: https://github.com/nicole-kutswa
+[2]: https://www.linkedin.com/in/nicole-kutswa/ 
 
 </div>
 
@@ -49,9 +44,9 @@ Max date from train set: 2017-12-31
 
 **Libraries:**  `NumPy` `pandas` `tensorflow` `matplotlib` `sklearn` `seaborn`
 ## Data Exploration:
-<img src="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/overall%20daily%20sales.PNG?raw=true">
-<img src="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/item%20daily%20sales.PNG?raw=true">
-<img src ="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/store%20sales.PNG?raw=true">
+<img src="https://github.com/nicole-kutswa/Time-series-forecasting/blob/main/output/overall%20daily%20sales.PNG?raw=true">
+<img src="https://github.com/nicole-kutswa/Time-series-forecasting/blob/main/output/item%20daily%20sales.PNG?raw=true">
+<img src ="https://github.com/nicole-kutswa/Time-series-forecasting/blob/main/output/store%20sales.PNG?raw=true">
 
 ## Model training, evaluation, and prediction:
 ### Multilayer Perceptron:
@@ -71,7 +66,7 @@ Max date from train set: 2017-12-31
 - The benefit of this model is that the model can support very long input sequences that can be read as blocks or subsequences by the CNN model, then pieced together by the LSTM model.
 
 ### Comapring Models:
-<img src ="https://github.com/Pradnya1208/Time-series-forecasting-using-Deep-Learning/blob/main/output/compare%20models.PNG?raw=true">
+<img src ="https://github.com/nicole-kutswa/Time-series-forecasting/blob/main/output/compare%20models.PNG?raw=true">
 <br>
 
 | Model             | Train RMSE             | Validation RMSE                                                                |
@@ -85,42 +80,19 @@ Max date from train set: 2017-12-31
 `Deep Learning for Time Series Forecasting`
 `LSTM`
 
-
-
-
-
-
-
-
 ## References:
 [Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/)
 ### Feedback
 
-If you have any feedback, please reach out at pradnyapatil671@gmail.com
+If you have any feedback, please reach out at nicolekutswa@gmail.com
 
 
-### 🚀 About Me
-#### Hi, I'm Pradnya! 👋
-I am an AI Enthusiast and  Data science & ML practitioner
+### About Me
+#### Hi, I'm Nicole
+I am a Data Engineer Enthusiast and  Data science & ML practitioner
 
+[![github](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/git.svg)][1]
+[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
 
-
-
-
-
-
-
-
-
-
-
-[1]: https://github.com/Pradnya1208
-[2]: https://www.linkedin.com/in/pradnya-patil-b049161ba/
-[3]: https://public.tableau.com/app/profile/pradnya.patil3254#!/
-[4]: https://twitter.com/Pradnya1208
-
-
-[![github](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c292abd3f9cc647a7edc0061193f1523e9c05e1f/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/9f5c4a255972275ced549ea6e34ef35019166944/icons/iconmonstr-linkedin-5.svg)][2]
-[![tableau](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/e257c5d6cf02f13072429935b0828525c601414f/icons/icons8-tableau-software%20(1).svg)][3]
-[![twitter](https://raw.githubusercontent.com/Pradnya1208/Telecom-Customer-Churn-prediction/c9f9c5dc4e24eff0143b3056708d24650cbccdde/icons/iconmonstr-twitter-5.svg)][4]
+[1]: https://github.com/nicole-kutswa
+[2]: https://www.linkedin.com/in/nicole-kutswa/ 
