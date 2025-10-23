@@ -1,10 +1,10 @@
 <div align="center">
   
-[![github](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
+[![GitHub](https://img.shields.io/badge/GitHub-%20?style=for-the-badge&logo=github&labelColor=black&color=blue)][1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&labelColor=0A66C2&color=blue)][2]
 
 [1]: https://github.com/nicole-kutswa
-[2]: https://www.linkedin.com/in/nicole-kutswa/ 
+[2]: https://www.linkedin.com/in/nicole-kutswa/
 
 </div>
 
@@ -91,8 +91,8 @@ If you have any feedback, please reach out at nicolekutswa@gmail.com
 #### Hi, I'm Nicole
 I am a Data Engineer Enthusiast and  Data science & ML practitioner
 
-[![github](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/git.svg)][1]
-[![linkedin](https://raw.githubusercontent.com/nicole-kutswa/Telecom-customer-churn-analysis/main/icons/iconmonstr-linkedin-5.svg)][2]
+[![GitHub](https://img.shields.io/badge/GitHub-%20?style=for-the-badge&logo=github&labelColor=black&color=blue)][1]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20?style=for-the-badge&logo=linkedin&labelColor=0A66C2&color=blue)][2]
 
 [1]: https://github.com/nicole-kutswa
-[2]: https://www.linkedin.com/in/nicole-kutswa/ 
+[2]: https://www.linkedin.com/in/nicole-kutswa/
